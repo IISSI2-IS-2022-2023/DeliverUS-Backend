@@ -61,7 +61,7 @@ Customers will be able to query top 3 products from all restaurants. Top product
 #### FR8: Edit/delete order
 If the order is in the state 'pending', the customer can edit or remove the products included or remove the whole order. The delivery address can also be modified in the state 'pending'.
 
-If the order is in the state 'sent' or 'delivered' no edition is allowed.
+If the order is in the state 'sent' or 'delivered' no edition or removal is allowed.
 
 
 ### Owner functional requirements:
